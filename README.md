@@ -19,7 +19,7 @@ Frontend Developer • React • TypeScript
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=giobestava&show_icons=true&theme=tokyonight)
 
 ### 🎵 Side Passion
 
